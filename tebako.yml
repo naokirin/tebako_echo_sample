@@ -1,0 +1,4 @@
+options:
+  root: ./
+  entry-point: echo.rb
+  Ruby: 3.4.1
